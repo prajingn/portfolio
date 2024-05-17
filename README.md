@@ -1,3 +1,3 @@
-# This is a website made using python and flask.
+# This is a website made using **python and flask**.
 
-and github pages.
+and __github pages__.
